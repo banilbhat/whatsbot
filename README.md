@@ -32,6 +32,7 @@ $ mkdir whatsbot
 $ cd whatsbot
 $ python3 -m venv whatsbot-venv
 $ whatsbot-venv\Scripts\activate
+$ source whatsbot-venv\Scripts\activate
 (whatsbot-venv) $ python3 -m pip install twilio flask requests
 ```
 
