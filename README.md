@@ -246,7 +246,7 @@ Open a second terminal window and run `ngrok http 5000` to allocate a temporary 
 ```
 Session Status                online  
                                                                                   
-Account                       Karthikeyan NG (Plan: Free)                                                               
+Account                       Anil Bhat (Plan: Free)                                                               
 Version                       2.3.35                                                                                    
 Region                        United States (us)                                                                        
 Web Interface                 http://127.0.0.1:4040                                                                     
@@ -270,13 +270,6 @@ Enjoy!
 For any queries, ping: 
 
 -- 
-Karthikeyan NG
-
-Amazon: https://www.amazon.com/s?k=karthikeyan+ng <br/>
-Github: http://github.com/intrepidkarthi<br/>
-LinkedIn: https://linkedin.com/in/intrepidkarthi<br/>
-Twitter: https://twitter.com/intrepidkarthi<br/>
-Email: intrepidkarthi@gmail.com
-_________________________________________________
+Anil Bhat_____________
 
 
